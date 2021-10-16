@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://halloweenideas.pages.dev/sitemap.xml
